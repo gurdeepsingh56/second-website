@@ -1,0 +1,47 @@
+/*text colors*/
+.text-primary{
+    color: rgb(81, 250, 89);
+}
+.button{
+    cursor: pointer;
+    display: inline-block;
+    padding: 10px;
+    color: white;
+    background-color:  rgb(81, 250, 89);
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.button:hover{
+    opacity: 0.9;
+    background-color: #333;
+}
+.bg-primary {
+    background-color:  rgb(81, 250, 89);
+    color: white;
+}
+.bg-dark{
+   background: #333;
+   color: white;
+}
+.cases img:hover{
+    opacity: 0.8;
+}
+.bg-secondary,
+.bg-second{
+    background: rgb(158, 68, 243);
+    color: white;
+    border: 1px solid white;
+}
+.bg-light{
+    background: rgb(247, 242, 242);
+}
+.blog-light{
+    background: white;
+}
+.btn-light{
+    background: white;
+    color: #333;
+}
+.button.btn-light:hover{
+    color: white;
+}
